@@ -1,0 +1,3 @@
+[wsl2]
+memory=2GB  # limite de memoria RAM
+swap=0  # 0 para não usar swap
